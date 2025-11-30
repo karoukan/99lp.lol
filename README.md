@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="assets/99lp.png" alt="99LP Logo" width="120">
+
 **Never Miss a Play**
 
 Automatic League of Legends replay recording with post-game insights.
